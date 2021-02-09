@@ -1,0 +1,17 @@
+.employees {
+    background: linear-gradient(to top, #1D2671, #C33764);
+    color: #fff;
+    min-height: 100vh;
+    padding-bottom: 30px;
+}
+
+ul {
+    max-width: 80%;
+    margin: 10px auto;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    max-height: 300px;
+}

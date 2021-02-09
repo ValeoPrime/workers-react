@@ -1,0 +1,13 @@
+.header {
+    color: #fff;
+    font-size: 30px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header a {
+    text-decoration: none;
+    padding: 10px 20px;
+}
